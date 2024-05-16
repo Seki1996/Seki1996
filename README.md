@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Tableu
-    - [Analyzing top 50 most paid athletes in the world](https://github.com/Seki1996/Data-Analysis-Portfolio#Analyzing-top-50-most-paid-athletes-in-the-world)
+    - [Analyzing top 50 most paid athletes in the world](https://github.com/Seki1996/Seki1996/blob/main/README.md#analyzing-top-50-most-paid-athletes-in-the-world)
     - [Meat production in Germany](https://github.com/Seki1996/Data-Analysis-Portfolio#Meat-production-in-Germany)
     - Tableau---> [go to my Tableau visulizations..](https://public.tableau.com/app/profile/milos.mrkajic/vizzes)
   - SQL
