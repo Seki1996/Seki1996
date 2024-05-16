@@ -16,22 +16,22 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/Seki1996/Seki1996/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Seki1996/Seki1996/blob/main/README.md#portfolio-projects)
   - Tableu
     - [Analyzing top 50 most paid athletes in the world](https://github.com/Seki1996/Seki1996/blob/main/README.md#analyzing-top-50-most-paid-athletes-in-the-world)
-    - [Meat production in Germany](https://github.com/Seki1996/Data-Analysis-Portfolio#Meat-production-in-Germany)
+    - [Meat production in Germany](https://github.com/Seki1996/Seki1996/blob/main/README.md#meat-production-in-germany)
     - Tableau---> [go to my Tableau visulizations..](https://public.tableau.com/app/profile/milos.mrkajic/vizzes)
   - SQL
-    - [Sleep health and lifestyle](https://github.com/Seki1996/Data-Analysis-Portfolio#Sleep-health-and-lifestyle)
-    - [Company departments Extractions](https://github.com/Seki1996/Data-Analysis-Portfolio#Company-departments-Extractions)
+    - [Sleep health and lifestyle](https://github.com/Seki1996/Seki1996/blob/main/README.md#sleep-health-and-lifestyle)
+    - [Company departments Extractions](https://github.com/Seki1996/Seki1996/blob/main/README.md#company-deparmentes-extractions)
   - Excel
-    - [Sales Report](https://github.com/Seki1996/Data-Analysis-Portfolio#Sales-Report)
-    - [Student performance](https://github.com/Seki1996/Data-Analysis-Portfolio#Student-performance)
+    - [Sales Report](https://github.com/Seki1996/Seki1996/blob/main/README.md#sales-report)
+    - [Student performance](https://github.com/Seki1996/Seki1996/blob/main/README.md#student-performance)
   
  
 
-- [Contact](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/Seki1996/Seki1996/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology and tools used to solve cases.
 
