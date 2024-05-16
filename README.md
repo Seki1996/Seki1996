@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
  
 
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/Seki1996/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology and tools used to solve cases.
 
