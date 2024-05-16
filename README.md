@@ -1,14 +1,14 @@
 # Miloš Mrkajić - Data Analyst Portfolio
 ## About
 Hi, I am Miloš! I am a Data Analysis professional, with experience working with data sets and doing independent projects.
-Visualization is everywhere, from art and advertisements to the traffic lights on the street.
-I have a great passion for the approach to working with data and for the quest to uncover meaningful insights.
-I am very excited to use my technical and analytical skills to the field of data analytics as an entry-level data specialist.
+Visualization is everywhere, from creative pursuits such as art and advertisements to the mundane, including traffic lights.
+I have a great passion in my approach to working with data and for the quest to uncover meaningful insights.
+I am very excited to use my technical and analytical skills in the field of data analytics as an entry-level data specialist.
 
 My technical expertise goes through all stages of handling data. I have the ability to properly look for, store, manage, analyze, and visualize data.
-My approach is always thorough, detailed, with a firm goal of finding the answers the companies are looking for.
+My approach is always thorough, detailed, with a firm goal of finding the answers companies are looking for.
 
-In my free time, I love to keep progressing. I analyze different data sets to expand my knowledge and expertise.
+In my free time, I love to keep honing my skills. I analyze different data sets to expand my knowledge and expertise.
 Learning is a lifelong process, so I am always eager to learn new tools and approaches to working with data.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
