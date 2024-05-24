@@ -11,7 +11,7 @@ My approach is always thorough, detailed, with a firm goal of finding the answer
 In my free time, I love to keep honing my skills. I analyze different data sets to expand my knowledge and expertise.
 Learning is a lifelong process, so I am always eager to learn new tools and approaches to working with data.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/Seki1996/Seki1996/blob/main/My%20Data%20Analysis%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
