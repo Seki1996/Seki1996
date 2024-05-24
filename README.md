@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/Seki1996/Seki1996/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Seki1996/Seki1996/blob/main/README.md#portfolio-projects)
-  - Tableu
+  - Tableau
     - [Analyzing top 50 most paid athletes in the world](https://github.com/Seki1996/Seki1996/blob/main/README.md#analyzing-top-50-most-paid-athletes-in-the-world)
     - [Meat production in Germany](https://github.com/Seki1996/Seki1996/blob/main/README.md#meat-production-in-germany)
     - Tableau---> [go to my Tableau visulizations..](https://public.tableau.com/app/profile/milos.mrkajic/vizzes)
@@ -41,13 +41,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Goal:** To determine the top paid athletes and what factors contribute to their success.
 
 **Description:** The project focused on analyzing a dataset from Tableu's Monday challenge. I was curious how much off-the-field earnings are influencing the list. Which sports dominate the list. Which athletes top the list. Based on the fields: on-the-field earnings, off-the-field earnings, sports and names, my plan is to get insights from this dataset.
-Using Tableu I will focus on analyzing the dataset with charts and present all my insights in the form of a Tableu story.
+Using Tableau I will focus on analyzing the dataset with charts and present all my insights in the form of a Tableau story.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** Excel, Tableu
+**Technology:** Excel, Tableau
 
-**Results:** All my insights I have presented in my Tableu story.
+**Results:** All my insights I have presented in my Tableau story.
 
 ### Meat production in Germany
 
@@ -55,13 +55,13 @@ Using Tableu I will focus on analyzing the dataset with charts and present all m
 
 **Code:** [`Meat production in Germany`](https://public.tableau.com/app/profile/milos.mrkajic/viz/MeatproductioninGermany_17155291173500/Story1)
 
-**Description:** The dataset contains a list of three types of meat production over the years in the 21th century. My goal is to see production rates of each type of meat over the years and comparing them to each other. I am also interested in the development of production trends in the last few years compared to the beginning of the century. This dataset is also from the Monday challenge from Tableu. My insights and answers I will present in the form of Tableu story.
+**Description:** The dataset contains a list of three types of meat production over the years in the 21th century. My goal is to see production rates of each type of meat over the years and comparing them to each other. I am also interested in the development of production trends in the last few years compared to the beginning of the century. This dataset is also from the Monday challenge from Tableu. My insights and answers I will present in the form of Tableau story.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** Excel, Tableu
+**Technology:** Excel, Tableau
 
-**Results:** All my insights I have presented in my Tableu story.
+**Results:** All my insights I have presented in my Tableau story.
 
 
 
