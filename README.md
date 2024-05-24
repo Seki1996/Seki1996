@@ -55,7 +55,7 @@ Using Tableau I will focus on analyzing the dataset with charts and present all 
 
 **Code:** [`Meat production in Germany`](https://public.tableau.com/app/profile/milos.mrkajic/viz/MeatproductioninGermany_17155291173500/Story1)
 
-**Description:** The dataset contains a list of three types of meat production over the years in the 21th century. My goal is to see production rates of each type of meat over the years and comparing them to each other. I am also interested in the development of production trends in the last few years compared to the beginning of the century. This dataset is also from the Monday challenge from Tableu. My insights and answers I will present in the form of Tableau story.
+**Description:** The dataset contains a list of three types of meat production over the years in the 21th century. My goal is to see production rates of each type of meat over the years and comparing them to each other. I am also interested in the development of production trends in the last few years compared to the beginning of the century. This dataset is also from the Monday challenge from Tableau. My insights and answers I will present in the form of Tableau story.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
