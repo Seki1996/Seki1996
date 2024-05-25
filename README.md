@@ -76,7 +76,7 @@ Using Tableau I will focus on analyzing the dataset with charts and present all 
 **Technology:** MySQL
 
 
-### Company deparmentes Extractions
+### Company departments Extractions
 **Code:** [`Company departments Extractions`](https://github.com/Seki1996/example/blob/main/Company%20departments%20Extractions.sql)
 
 **Description:** The dataset contains different parts of company branches: accounts, employees, customers, departments, etc. The main goal of this script is to shwocase my SQL skills. From the basic CRUD operations to more advanced joins, views and aggregated functions. MySQL is great for working with data ranging from creating database, managing it and extracting needed information.
