@@ -118,7 +118,7 @@ Using Tableau I will focus on analyzing the dataset with charts and present all 
 
 ### Sales Reporting Analysis
 
-**Goal:** To analyze the 'Sales Report' dataset in goal to determine how well the company is operating
+**Goal:** To analyze the 'Sales Report' dataset in purpose to determine how well the company is operating
 
 **Code:** [`Sales Reporting`](https://github.com/Seki1996/example/blob/main/sales-report-analysis.ipynb)
 
