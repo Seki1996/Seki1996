@@ -28,7 +28,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - [Sales Report](https://github.com/Seki1996/Seki1996/blob/main/README.md#sales-report)
     - [Student performance](https://github.com/Seki1996/Seki1996/blob/main/README.md#student-performance)
-  
+  - Pandas
+    - [Sales Reporting](https://github.com/Seki1996/example/blob/main/sales-report-analysis.ipynb)  
  
 
 - [Contact](https://github.com/Seki1996/Seki1996/blob/main/README.md#contacts)
@@ -112,6 +113,20 @@ Using Tableau I will focus on analyzing the dataset with charts and present all 
 **Skills:** data cleaning, data analysis, data visualization.
 
 **Technology:** Excel
+
+
+
+### Sales Reporting Analysis
+
+**Goal:** To analyze the 'Sales Report' dataset in goal to determine how well the company is operating
+
+**Code:** [`Sales Reporting`](https://github.com/Seki1996/example/blob/main/sales-report-analysis.ipynb)
+
+**Description:** Analyzing the 'Sales Report' dataset I will use Pandas for data loading, preprocessing and analysis. Further, I will use Seaborn and Matplotlib for data visualization.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Pandas, Seaborn, Matplotlib
 
 
 
